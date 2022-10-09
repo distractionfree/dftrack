@@ -1,6 +1,10 @@
+import { Button } from "react-bootstrap";
+
 function App() {
   return (
-    <h1>Hello, World!</h1>
+    <main>
+      <Button variant="primary">Hello World!</Button>
+    </main>
   );
 }
 
